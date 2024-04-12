@@ -1,4 +1,3 @@
-# BTP405 Project 2
 
 # BTP405 Project 2
 
